@@ -1,2 +1,2 @@
 [build]
-rustflags = ["-L/home/radon/Desktop/anomaly/target/release", "-lprinter"]
+rustflags = ["-L/your_directory_structure", "-lprinter"]
